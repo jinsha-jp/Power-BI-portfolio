@@ -22,10 +22,20 @@ Welcome to my Power BI Portfolio! Here, you can explore my Power BI dashboards, 
 
   - **Objective**: This analysis was aimed at helping a telecom organization understand their customers and how best to serve them through a Customer Retention Analysis
   - **Key Features**:
-     - **KPIs**: 
-     - **Visuals**: KPI cards, Bar charts, Donut Chart, Boxplot,Gauge, Tree map
+     - **KPIs**:Churn Rate ,Customer Lifetime Value 
+     - **Visuals**: KPI cards, Bar charts, Pie Chart, Linechart
 
 - **[Project 4: Call Centre Analysis](https://github.com/jinsha-jp/Call-Center-Analysis/blob/main/README.md)**
 
+    - **Objective**:Design and develop an interactive Power BI dashboard that provides the Call Center Manager with a comprehensive view of key performance metrics (KPIs)
+    - **Key Features**:
+       - **KPIs**: #Calls, % unanswered calls,%resolved cases, Average satisfaction
+       - **Visuals**: KPI cards, Bar charts, Donut Chart, Linechart, Decomposition chart
+
 - **[Project 5: Diversity and Inclusion analysis](https://github.com/jinsha-jp/HR--Diversity-Inclusion-Analysis/blob/main/README.md)**
+
+  - **Objective**:Design a Power BI dashboard and define relevant KPIs to track and evaluate the organization's diversity initiatives
+    - **Key Features**:
+       - **KPIs**: Average Rating, Turn over, %promotion across demographics
+       - **Visuals**: KPI cards, Bar charts, Donut Chart, Gauge, Pie chart
 
