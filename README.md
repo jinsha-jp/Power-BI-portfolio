@@ -4,5 +4,6 @@ Welcome to my Power BI Portfolio! Here, you can explore my Power BI dashboards, 
 
 ## Projects:
 
-- **[Project 1: Sales Dashboard](Project_1_Sales_Dashboard/README.md)**  
+- **[Project 1: Revenue Insight for Hospitality Domain](Revenue-Insight--Hospitality-Domain/README.md)**
+-  
   A comprehensive sales dashboard.
