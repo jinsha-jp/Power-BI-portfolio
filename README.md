@@ -35,7 +35,7 @@ Welcome to my Power BI Portfolio! Here, you can explore my Power BI dashboards, 
 - **[Project 5: Diversity and Inclusion analysis](https://github.com/jinsha-jp/HR--Diversity-Inclusion-Analysis/blob/main/README.md)**
 
   - **Objective**:Design a Power BI dashboard and define relevant KPIs to track and evaluate the organization's diversity initiatives
-    - **Key Features**:
+  - **Key Features**:
        - **KPIs**: Average Rating, Turn over, %promotion across demographics
        - **Visuals**: KPI cards, Bar charts, Donut Chart, Gauge, Pie chart
 
