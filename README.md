@@ -2,6 +2,9 @@
 
 Welcome to my Power BI Portfolio! Here, you can explore my Power BI dashboards, data analysis projects, and visualizations. 
 
+![image](https://github.com/user-attachments/assets/a9397464-bb80-4a91-bd1f-abb84e0e21f5)
+
+
 ## Projects:
 
 - **[Project 1: Revenue insghits for Hospitality Domain ](https://github.com/jinsha-jp/Revenue-Insight--Hospitality-Domain/blob/main/README.md)**
