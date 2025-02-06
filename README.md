@@ -2,8 +2,6 @@
 
 Welcome to my Power BI Portfolio! Here, you can explore my Power BI dashboards, data analysis projects, and visualizations. 
 
-![image](https://github.com/user-attachments/assets/a9397464-bb80-4a91-bd1f-abb84e0e21f5)
-
 
 ## Projects:
 
@@ -36,6 +34,9 @@ Welcome to my Power BI Portfolio! Here, you can explore my Power BI dashboards, 
        - **Visuals**: KPI cards, Bar charts, Donut Chart, Linechart, Decomposition chart
 
 - **[Project 5: Diversity and Inclusion analysis](https://github.com/jinsha-jp/HR--Diversity-Inclusion-Analysis/blob/main/README.md)**
+
+![image](https://github.com/user-attachments/assets/a9397464-bb80-4a91-bd1f-abb84e0e21f5)
+
 
   - **Objective**:Design a Power BI dashboard and define relevant KPIs to track and evaluate the organization's diversity initiatives
   - **Key Features**:
