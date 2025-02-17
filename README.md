@@ -40,5 +40,7 @@ Welcome to my Power BI Portfolio! Here, you can explore my Power BI dashboards, 
        - **KPIs**: Average Rating, Turn over, %promotion across demographics
        - **Visuals**: KPI cards, Bar charts, Donut Chart, Gauge, Pie chart
    
-  ![image](https://github.com/user-attachments/assets/a9397464-bb80-4a91-bd1f-abb84e0e21f5)
+
+  ![image](https://github.com/user-attachments/assets/59598fe7-3f59-413c-b400-9ca1be483189)
+
 
