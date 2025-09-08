@@ -1,6 +1,7 @@
 # Power BI Portfolio
+!![download](https://github.com/user-attachments/assets/410822aa-a61b-491e-8e5d-99a2d607893f)
 
-Welcome to my Power BI Portfolio! Here, you can explore my Power BI dashboards, data analysis projects, and visualizations. 
+Welcome to my Power BI Portfolio. This collection highlights my proficiency in developing  dashboards, performing in-depth data analysis, and creating visualizations that transform complex data into clear, actionable insights 
 
 
 ## Projects:
